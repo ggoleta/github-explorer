@@ -30,6 +30,7 @@
   ],
   "rules": {
     "no-use-before-define": "off",
+    "arrowParens": "always",
     "camelcase": "off", // forma correta
     "prettier/prettier": "error",
     "react-hooks/rules-of-hooks": "error",
